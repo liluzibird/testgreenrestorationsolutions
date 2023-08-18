@@ -1,0 +1,4 @@
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.gogreenrestoration.com/sitemap.xml
+User-agent: *
+
